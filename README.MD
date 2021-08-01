@@ -5,7 +5,7 @@ A Golang REST API project which doesn't use any http framework, router or mux th
 
 ## Documentation
 1. <b>Swagger</b> documentation can be accessible from [here](https://go-pure-api.herokuapp.com/docs/index.html).
-2. <b>Go</b> documentation can be accessible from [here](https://pkg.go.dev/github.com/yunussandikci/go-pure-api@v1.0).
+2. <b>Go</b> documentation can be accessible from [here](https://pkg.go.dev/github.com/yunussandikci/go-pure-api@v1.0.0).
 
 ## Development
 1. This project contains unit and integration tests which can be run with the following command.
