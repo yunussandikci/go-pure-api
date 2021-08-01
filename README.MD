@@ -2,7 +2,7 @@
 A Golang REST API project which doesn't use any http framework, router or mux that interacts with its own minimal in-memory database implementation and mongo database as a week-end experiment.
 <br>You can check details and test it from [Swagger](https://go-pure-api.herokuapp.com/docs/index.html)
 <br>Also you can access deployed API from [here](https://go-pure-api.herokuapp.com/)
-<br><br>[![GoDoc](https://pkg.go.dev/badge/github.com/yunussandikci/go-pure-api)](https://pkg.go.dev/github.com/yunussandikci/go-pure-api)
+<br><br>[![GoDoc](https://pkg.go.dev/badge/github.com/yunussandikci/go-pure-api)](https://pkg.go.dev/github.com/yunussandikci/go-pure-api@v1.0.0)
 
 ## Documentation
 1. <b>Swagger</b> documentation can be accessible from [here](https://go-pure-api.herokuapp.com/docs/index.html).
